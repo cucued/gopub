@@ -1,7 +1,7 @@
 package apicontrollers
 
 import (
-	"library/common"
+	"github.com/linclin/gopub/src/library/common"
 	"runtime"
 
 	"github.com/astaxie/beego"

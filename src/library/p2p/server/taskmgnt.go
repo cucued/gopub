@@ -7,9 +7,9 @@ import (
 	"time"
 
 	log "github.com/cihub/seelog"
+	"github.com/linclin/gopub/src/library/p2p/common"
+	"github.com/linclin/gopub/src/library/p2p/p2p"
 	"github.com/xtfly/gokits"
-	"library/p2p/common"
-	"library/p2p/p2p"
 	"strconv"
 )
 

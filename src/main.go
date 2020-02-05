@@ -5,12 +5,12 @@ import (
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/orm"
 	"github.com/astaxie/beego/toolbox"
-	_ "github.com/go-sql-driver/mysql"
-	"library/p2p/init_sever"
-	"models"
+	"github.com/go-sql-driver/mysql"
+	"github.com/linclin/gopub/src/library/p2p/init_sever"
+	"github.com/linclin/gopub/src/models"
+	"github.com/linclin/gopub/src/routers"
 	"os"
 	"os/signal"
-	_ "routers"
 	"syscall"
 )
 

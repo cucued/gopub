@@ -1,8 +1,8 @@
 package apicontrollers
 
 import (
-	"library/common"
-	"models"
+	"github.com/linclin/gopub/src/library/common"
+	"github.com/linclin/gopub/src/models"
 	"strconv"
 	"strings"
 	"time"

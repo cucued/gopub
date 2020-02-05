@@ -1,8 +1,8 @@
 package confcontrollers
 
 import (
-	"controllers"
-	"library/jumpserver"
+	"github.com/linclin/gopub/src/controllers"
+	"github.com/linclin/gopub/src/library/jumpserver"
 )
 
 type ServerGroupsController struct {
